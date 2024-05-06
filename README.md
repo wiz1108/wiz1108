@@ -1,4 +1,4 @@
-![image](https://github.com/wiz1108/wiz1108/assets/166735057/e88d6a00-fa14-4153-9709-b6dd4fd132da)![image](https://github.com/wiz1108/wiz1108/assets/166735057/77ec2b65-e684-47d6-a9a8-7dc1c209efac)![image](https://github.com/wiz1108/wiz1108/assets/166735057/619e4c6c-a4a1-451d-b802-6d9e46f40e3d)# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Front-End Developer
 
@@ -62,7 +62,7 @@ I'm eager to build new web applications requiring solid knowledge and soft skill
 ### Socials
 
 <p align="left">
-      <a href="https://discord.com/users/robi52582" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+      <a href="https://discord.com/users/rising_star120" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
       <a href="https://www.github.com/wiz1108" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
       <a href="https://t.me/lowes145" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/a/favicon.svg" width="32" height="32" /></a>
 </p>
