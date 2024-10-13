@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Front-End Developer
+## Senior Frontend Engineer
 
 I'm eager to build new web applications requiring solid knowledge and soft skills.
 
@@ -36,7 +36,6 @@ I'm eager to build new web applications requiring solid knowledge and soft skill
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="36" height="36" alt="HTTP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="36" height="36" alt="WebSocket" /></a>
@@ -64,7 +63,8 @@ I'm eager to build new web applications requiring solid knowledge and soft skill
 <p align="left">
       <a href="https://discord.com/users/rising_star120" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
       <a href="https://www.github.com/wiz1108" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-      <a href="https://t.me/lowes145" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/a/favicon.svg" width="32" height="32" /></a>
+      <a href="https://t.me/topdev204" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/a/favicon.svg" width="32" height="32" /></a>
+      <a href="https://www.linkedin.com/in/logan-collins-0a4b31330" target="_blank" rel="noreferrer"><img src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -78,5 +78,5 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=wiz1108&stroke=fffff
 <a href="https://github.com/wiz1108"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiz1108&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-<b>Top Repositories</b>
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<!-- <b>Top Repositories</b>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
