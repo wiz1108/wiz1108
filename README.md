@@ -61,10 +61,9 @@ I'm eager to build new web applications requiring solid knowledge and soft skill
 ### Socials
 
 <p align="left">
-      <a href="https://discord.com/users/rising_star120" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+      <a href="https://discord.com/users/1432262439923224630" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
       <a href="https://www.github.com/wiz1108" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-      <a href="https://t.me/topdev204" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/a/favicon.svg" width="32" height="32" /></a>
-      <a href="https://www.linkedin.com/in/logan-collins-0a4b31330" target="_blank" rel="noreferrer"><img src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="32" height="32" /></a>
+      <a href="https://t.me/hermes1108" target="_blank" rel="noreferrer"><img src="https://web.telegram.org/a/favicon.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
